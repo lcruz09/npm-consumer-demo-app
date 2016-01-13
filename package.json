@@ -1,0 +1,14 @@
+{
+  "name": "npm-consumer-demo-app",
+  "version": "1.0.0",
+  "description": "A testing app to test npm-producer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lcruz",
+  "license": "ISC",
+  "dependencies": {
+    "npm-producer-demo-app": "https://github.com/lcruz09/npm-producer-demo-app.git"
+  }
+}
