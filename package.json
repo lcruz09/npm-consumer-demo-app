@@ -9,6 +9,6 @@
   "author": "lcruz",
   "license": "ISC",
   "dependencies": {
-    "npm-producer-demo-app": "https://github.com/lcruz09/npm-producer-demo-app.git"
+    "git-producer-demo-app": "https://github.com/lcruz09/npm-producer-demo-app.git"
   }
 }
